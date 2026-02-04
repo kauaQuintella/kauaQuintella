@@ -19,8 +19,7 @@
 
 <p align="center">Software Developer | Java • Spring Boot • React | Computer Engineer Student at UEFS</p>
 
-- 🔭 I’m currently working on [tec-502-distribuited-server](https://github.com/kauaQuintella/tec-502-distribuited-server)
-
+- 🌱 I’m currently learning **PHP & Go**
 
 <!--
 
