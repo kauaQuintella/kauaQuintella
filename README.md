@@ -21,8 +21,6 @@
 
 - 🔭 I’m currently working on [tec-502-distribuited-server](https://github.com/kauaQuintella/tec-502-distribuited-server)
 
-- 🌱 I’m currently learning **SpringBoot & Java**
-
 
 <!--
 
