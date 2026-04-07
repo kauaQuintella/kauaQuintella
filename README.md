@@ -19,7 +19,7 @@
 
 <p align="center">Software Developer | Java • Spring Boot • React | Computer Engineer Student at UEFS</p>
 
-- 🌱 I’m currently learning **PHP & Go**
+- 🌱 I’m currently focusing on **Java & Springboot**
 
 <!--
 
